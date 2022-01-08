@@ -1,7 +1,6 @@
-import chart_studio.plotly as pl
 import numpy as np
 import pandas as pd
-#import plotly.plotly as pl
+import plotly.plotly as pl
 import plotly.offline as po
 import cufflinks as cf
 
